@@ -5,22 +5,22 @@ My name is Weldon and I'm a 4th year student in Software Engineering + Combinato
 ## Projects
 Here is a non-exhaustive list of some of the projects I'm most proud of:
 
-__Poppy__
+__Poppy__ 🐇
 - a toy programming language, soon to be a not-so-toy programming language
 - developed compiler from scratch with goal of bootstrapping
 - find it right here on GitHub
 
-__Multiset__
+__Multiset__ 💸
 - free (!) debt-settling app
 - wrote database seeding scripts, test harnesses for SQL, and implemented optimization algorithms to minimize required transfers
 - find the code on GitHub and the app at [multiset.benjaminng.ca](https://multiset.benjaminng.ca/) or on the Apple App Store
 
-__ES-See__
+__ES-See__ 📊
 - analytics and data visualization for the Eurovision Song Contest (ESC)
 - implemented extensive Django backend for various metrics involving countries' performance in the contest
 - find it right here on GitHub
 
-__L2 MC__
+__L2 MC__ 💬
 - AP Research project from Grade 11
 - identified new cross-disciplinary methodology for analyzing the effect of second-language speakers on the morphological compositionality of a language
 - find the research paper at [bit.ly/l2mc](https://bit.ly/l2mc)
