@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is Weldon and I'm a 4th year student in Software Engineering + Combinatorics & Optimization at the University of Waterloo. I'm super passionate about programming, discrete mathematics, and linguistics, as well as all of the fascinating ways these areas intersect.
+My name is Weldon and I'm a 4th year student in Software Engineering + Combinatorics & Optimization at the University of Waterloo. I'm super passionate about programming, discrete mathematics, and linguistics, as well as all of the fascinating ways these areas intersect. In terms of work experience, my past internships have focused on algorithm, backend, and embedded development.
 
 ## Projects
 Here is a non-exhaustive list of some of the projects I'm most proud of:
